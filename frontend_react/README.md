@@ -1,3 +1,7 @@
+# Tutorial: https://www.youtube.com/watch?v=3HNyXCPDQ7Q
+# Status: 26:03
+# Last update: Mar 28, 2023, 2:38pm
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
