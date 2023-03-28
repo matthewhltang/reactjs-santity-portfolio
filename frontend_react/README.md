@@ -1,6 +1,6 @@
 # Tutorial: https://www.youtube.com/watch?v=3HNyXCPDQ7Q
-# Status: 26:03
-# Last update: Mar 28, 2023, 2:38pm
+# Status: 48:02
+# Last update: Mar 28, 2023, 6:02pm
 
 # Getting Started with Create React App
 
