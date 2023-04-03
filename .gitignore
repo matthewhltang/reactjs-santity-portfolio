@@ -2,3 +2,4 @@ backend_sanity/node_modules/
 .env
 
 frontend_react/node_modules/
+frontend_react/build/
